@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fju2drjxh-python-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/fju2drjxh-python
